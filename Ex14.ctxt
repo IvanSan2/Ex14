@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Ex14
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ex14\ here.\r\n\r\n\ @author\ (Ivan\ Sannikov\ 324450170)\r\n\ @version\ (Ex14)\r\n
+comment1.params=mat\ x\ y
+comment1.target=int\ size(boolean[][],\ int,\ int)
+comment2.params=mat\ tmp\ x\ y
+comment2.target=int\ size(boolean[][],\ boolean[][],\ int,\ int)
+comment2.text=\r\n\ Method\ returns\ the\ size\ of\ stain\ in\ 2D\ board\r\n\r\n\ @param\ \ mat\ 2D\ array\ whits\ (boolean)\ stains\r\n\ @param\ \ x\ \ coordinate\ of\ cell\ in\ the\ array\r\n\ @param\ \ y\ \ coordinate\ of\ cell\ in\ the\ array\r\n\ @return\ \ \ \ size\ of\ stain\ in\ board\r\n
+comment3.params=a\ b
+comment3.target=boolean\ isPermutation(int[],\ int[])
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment4.params=a\ b\ i
+comment4.target=boolean\ isPermutation(int[],\ int[],\ int)
+comment4.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment5.params=array\ copy\ i
+comment5.target=void\ copyArray(int[],\ int[],\ int)
+comment5.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment6.params=array\ i
+comment6.target=void\ sortArray(int[],\ int)
+comment6.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment7.params=array\ i
+comment7.target=int\ findMaxIndex(int[],\ int)
+comment7.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment8.params=array
+comment8.target=void\ print(int[])
+comment8.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=9

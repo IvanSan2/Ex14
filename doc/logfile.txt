@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+D:\Programs\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+15
+-classpath
+D:\Programs\BlueJ\lib\bluejcore.jar;D:\Programs\BlueJ\lib\junit-4.11.jar;D:\Programs\BlueJ\lib\hamcrest-core-1.3.jar;D:\Programs\BlueJ\lib\lang-stride.jar;D:\Programs\BlueJ\lib\javafx\lib\javafx.base.jar;D:\Programs\BlueJ\lib\javafx\lib\javafx.controls.jar;D:\Programs\BlueJ\lib\javafx\lib\javafx.fxml.jar;D:\Programs\BlueJ\lib\javafx\lib\javafx.graphics.jar;D:\Programs\BlueJ\lib\javafx\lib\javafx.media.jar;D:\Programs\BlueJ\lib\javafx\lib\javafx.properties.jar;D:\Programs\BlueJ\lib\javafx\lib\javafx.swing.jar;D:\Programs\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Users\ciklo\OneDrive\GitHub\Ex14
+-d
+C:\Users\ciklo\OneDrive\GitHub\Ex14\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\ciklo\OneDrive\GitHub\Ex14\Ex14.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\ciklo\OneDrive\GitHub\Ex14\Ex14.java...
+Constructing Javadoc information...
+Standard Doclet version 15.0.1+9-18
+Building tree for all the packages and classes...
+Generating C:\Users\ciklo\OneDrive\GitHub\Ex14\doc\Ex14.html...
+C:\Users\ciklo\OneDrive\GitHub\Ex14\Ex14.java:14: warning - @param argument "int" is not a parameter name.
+C:\Users\ciklo\OneDrive\GitHub\Ex14\Ex14.java:15: warning - @param argument "int" is not a parameter name.
+C:\Users\ciklo\OneDrive\GitHub\Ex14\Ex14.java:28: warning - @param argument "y" is not a parameter name.
+Generating C:\Users\ciklo\OneDrive\GitHub\Ex14\doc\package-summary.html...
+Generating C:\Users\ciklo\OneDrive\GitHub\Ex14\doc\constant-values.html...
+Generating C:\Users\ciklo\OneDrive\GitHub\Ex14\doc\index.html...
+3 warnings

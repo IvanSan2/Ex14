@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ex14Check
+comment0.text=\r\n\ @author\ Ruth\ Rivka\ Stiebel\r\n\ @version\ 14-05-12\r\n
+comment1.params=mat\ x\ y
+comment1.target=int\ size(boolean[][],\ int,\ int)
+comment1.text=\r\n\ This\ method\ returns\ the\ number\ of\ cells\ in\ the\ array\ that\ are\ part\ of\ the\ same\ stain\ as\ the\ cell\ given.\r\n\ @param\ mat\ The\ array\ checked\r\n\ @param\ x\ X\ coodrdinate\ of\ the\ cell\ to\ be\ checked\r\n\ @param\ y\ Y\ coodrdinate\ of\ the\ cell\ to\ be\ checked\r\n\ @return\ Number\ of\ cells\ in\ the\ array\ that\ are\ part\ of\ the\ same\ stain\ as\ the\ cell\ given\r\n
+comment2.params=mat\ tmp\ x\ y
+comment2.target=int\ checkEightSides(boolean[][],\ boolean[][],\ int,\ int)
+comment3.params=mat\ row\ col
+comment3.target=boolean\ isValid(boolean[][],\ int,\ int)
+comment4.params=a\ b
+comment4.target=boolean\ isPermutation(int[],\ int[])
+comment4.text=\r\n\ This\ method\ checks\ if\ the\ two\ arrays\ have\ the\ exact\ same\ values\ in\ their\ cells\ (though\ not\ necessarily\ in\ the\ same\ order)\r\n\ @param\ a\ The\ first\ array\r\n\ @param\ b\ The\ second\ array\r\n\ @return\ true\ If\ the\ arrays\ have\ the\ exact\ same\ values\r\n
+comment5.params=a\ b\ indexA
+comment5.target=boolean\ isPermutation(int[],\ int[],\ int)
+comment6.params=a\ value\ startIndex
+comment6.target=int\ valueIndex(int[],\ int,\ int)
+comment7.params=a\ startIndex\ currMax
+comment7.target=int\ findMax(int[],\ int,\ int)
+comment8.params=a\ b\ index
+comment8.target=int[]\ copyArray(int[],\ int[],\ int)
+numComments=9
