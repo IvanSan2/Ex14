@@ -57,26 +57,5 @@ public class Mmn14StudentTester {
 
 	}
 
-	public static void main2(String[] args) {
-	    int [] a5 = {1, 2, 2, 4, 5};
-		int [] b5 = {4, 5, 1, 2};
-		
-		int [] x4 = {2,2,3,3,5,1};
-		int [] x5 = {3,3,2,2,5,5};
-		
-		System.out.println("a5 is: "); Ex14.print(a5);
-	    System.out.println("b5 is: "); Ex14.print(a5);
-	    System.out.println("x4 is: "); Ex14.print(x4);
-	    System.out.println("x5 is: "); Ex14.print(x5);
-	    
-	    Ex14.sortArray(a5,a5.length-1);
-	    Ex14.sortArray(b5,b5.length-1);
-	    Ex14.sortArray(x4,x4.length-1);
-	    Ex14.sortArray(x5,x5.length-1);
-	    
-		System.out.println("a5 is: "); Ex14.print(a5);
-	    System.out.println("b5 is: "); Ex14.print(a5);
-	    System.out.println("x4 is: "); Ex14.print(x4);
-	    System.out.println("x5 is: "); Ex14.print(x5);
-	   }
+
 }
