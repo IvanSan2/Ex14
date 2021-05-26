@@ -97,7 +97,7 @@ public class Ex14
      */
     private static void copyArray(int [] array, int [] copy, int i)
     {
-        if (i==array.length-1)
+        if (i==array.length)
             return;
         copy[i]=array[i];
         copyArray(array,copy,i+1);
@@ -113,10 +113,10 @@ public class Ex14
     public static void sortArray(int[] array, int i)
     {
 
-        if ( 0==i )
+        if ( i==0 )
             return;
 
-        int max_index = findMaxIndex(array, 0);
+        int max_index = findMaxIndex(array, i);
 
         
             int temp = array[max_index];
@@ -137,9 +137,9 @@ public class Ex14
      */
     private static int findMaxIndex(int[] array, int i)
     {
-        if (i==array.length-1)
+        if (i==0)
             return i;
-        int maxIndex = findMaxIndex (array, i+1);
+        int maxIndex = findMaxIndex (array, i-1);
         if (array[i]<array[maxIndex])
             return maxIndex;
          return i;
